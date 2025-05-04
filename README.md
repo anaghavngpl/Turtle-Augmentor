@@ -1,1 +1,2 @@
 # Turtle-Augmentor
+TURTLE AUGMENTOR automates the creation of conversational training datasets from unstructured text (PDFs, research papers, etc.) using RAG architecture. By integrating FAISS for semantic search, Flan-T5 for question generation, and Distil-BERT for embeddings, it transforms static documents into structured Q&A pairs, streamlining AI training for chatbots, virtual assistants, and educational tools. Built with PyMuPDF, LangChain, and Hugging Face Transformers.
